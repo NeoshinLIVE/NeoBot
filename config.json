@@ -1,0 +1,133 @@
+{
+    "invite_url": "https://discord.com/invite/xFqFm83QdK",
+    "max_team_size": 4,
+    "channel": {
+        "teams_category": ""
+    },
+    "roles": {
+        "mod": "",
+        "server_booster": "",
+        "twitch_sub": "",
+        "apex_delimeter": "",
+        "verified": "",
+        "level": {
+            "0": "",
+            "100": "",
+            "200": "",
+            "300": "",
+            "400": "",
+            "500": ""
+        },
+        "prestige": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": ""
+        },
+        "br_ranks": {
+            "rookie": "",
+            "bronze": "",
+            "silver": "",
+            "gold": "",
+            "platinum": "",
+            "diamond": "",
+            "master": "",
+            "predator": ""
+        },
+        "arena_ranks": {
+            "rookie": "",
+            "bronze": "",
+            "silver": "",
+            "gold": "",
+            "platinum": "",
+            "diamond": "",
+            "master": "",
+            "predator": ""
+        },
+        "platforms": {
+            "PC": "",
+            "PS4": "",
+            "X1": "",
+            "SWITCH": "",
+            "MOBILE": ""
+        },
+        "legends": {
+            "Bloodhound": "",
+            "Gibraltar": "",
+            "Lifeline": "",
+            "Pathfinder": "",
+            "Wraith": "",
+            "Bangalore": "",
+            "Caustic": "",
+            "Mirage": "",
+            "Octane": "",
+            "Wattson": "",
+            "Crypto": "",
+            "Revenant": "",
+            "Loba": "",
+            "Rampart": "",
+            "Horizon": "",
+            "Fuse": "",
+            "Valkyrie": "",
+            "Seer": "",
+            "Ash": "",
+            "Mad_Maggie": "",
+            "New_Castle": "",
+            "Vantage": ""
+        },
+        "inputs": {
+            "mk": "",
+            "controller": ""
+        }
+    },
+    "emoji": {
+        "arrows": {
+            "r": "",
+            "l": "",
+            "dr": "",
+            "dl": ""
+        },
+        "ranks": {
+            "rookie": "",
+            "bronze": "",
+            "silver": "",
+            "gold": "",
+            "platinum": "",
+            "diamond": "",
+            "master": "",
+            "predator": ""
+        },
+        "legends": {
+            "Bloodhound": "",
+            "Gibraltar": "",
+            "Lifeline": "",
+            "Pathfinder": "",
+            "Wraith": "",
+            "Bangalore": "",
+            "Caustic": "",
+            "Mirage": "",
+            "Octane": "",
+            "Wattson": "",
+            "Crypto": "",
+            "Revenant": "",
+            "Loba": "",
+            "Rampart": "",
+            "Horizon": "",
+            "Fuse": "",
+            "Valkyrie": "",
+            "Seer": "",
+            "Ash": "",
+            "Mad_Maggie": "",
+            "New_Castle": "",
+            "Vantage": ""
+        }
+    },
+    "colors": {
+        "primary": 5793266,
+        "secondary": 5198940,
+        "success": 3908956,
+        "danger": 15548997,
+        "warning": 16302848,
+        "info": 10900155
+    }
+}
